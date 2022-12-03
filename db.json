@@ -1,0 +1,145 @@
+{
+  "sociology-qp-12":[
+      {
+      "id":1,
+      "subject":"sociology",
+      "image":"sociology",
+      "description":"sociology- 2014 Compartment Exam set-1",
+      "download":"assets/images/exam-12/sociology-12/sociology-2014-comp-set-1.pdf",
+      "view":"assets/images/exam-12/sociology-12/sociology-2014-comp-set-1.pdf",
+      "author":"Tushar",
+      "class":"class-12"
+    
+    },
+    {
+      "id":2,
+      "subject":"sociology",
+      "image":"sociology",
+      "description":"sociology- 2014 Outside Delhi Exam set-1",
+      "download":"assets/images/exam-12/sociology-12/sociology-2014-outside-set-1.pdf",
+      "view":"assets/images/exam-12/sociology-12/sociology-2014-outside-set-1.pdf",
+      "author":"Tushar",
+      "class":"class-12"
+    
+    },
+    {
+      "id":3,
+      "subject":"sociology",
+      "image":"sociology",
+      "description":"sociology- 2014 Main Exam set-1",
+      "download":"assets/images/exam-12/sociology-12/sociology-2014-set-1.pdf",
+      "view":"assets/images/exam-12/sociology-12/sociology-2014-set-1.pdf",
+      "author":"Tushar",
+      "class":"class-12"
+    
+    },
+    {
+      "id":4,
+      "subject":"sociology",
+      "image":"sociology",
+      "description":"sociology- 2015 Outside Delhi Exam Set-1",
+      "download":"assets/images/exam-12/sociology-12/sociology-2015-outside-set-1.pdf",
+      "view":"assets/images/exam-12/sociology-12/sociology-2015-outside-set-1.pdf",
+      "author":"Tushar",
+      "class":"class-12"
+    
+    }, {
+      "id":5,
+      "subject":"sociology",
+      "image":"sociology",
+      "description":"sociology- 2015 Main Exam  set-1",
+      "download":"assets/images/exam-12/sociology-12/sociology-2015-set-1.pdf",
+      "view":"assets/images/exam-12/sociology-12/sociology-2015-set-1.pdf",
+      "author":"Tushar",
+      "class":"class-12"
+    
+    },
+    {
+      "id":6,
+      "subject":"sociology",
+      "image":"sociology",
+      "description":"sociology- 2016 Outside Delhi Exam Set-1",
+      "download":"assets/images/exam-12/sociology-12/sociology-2016-outside-set-1.pdf",
+      "view":"assets/images/exam-12/sociology-12/sociology-2016-outside-set-1.pdf",
+      "author":"Tushar",
+      "class":"class-12"
+    
+    },
+    {
+      "id":7,
+      "subject":"sociology",
+      "image":"sociology",
+      "description":"sociology- 2016 Main Exam set-1",
+      "download":"assets/images/exam-12/sociology-12/sociology-2016-set-1.pdf",
+      "view":"assets/images/exam-12/sociology-12/sociology-2016-set-1.pdf",
+      "author":"Tushar",
+      "class":"class-12"
+    
+    },
+    {
+      "id":8,
+      "subject":"sociology",
+      "image":"sociology",
+      "description":"sociology- 2017 Compartment Outside Delhi Exam set-1",
+      "download":"assets/images/exam-12/sociology-12/sociology-2017-compartment-outside-delhi-set-1.pdf",
+      "view":"assets/images/exam-12/sociology-12/sociology-2017-compartment-outside-delhi-set-1.pdf",
+      "author":"Tushar",
+      "class":"class-12"
+    
+    },
+    {
+      "id":9,
+      "subject":"sociology",
+      "image":"sociology",
+      "description":"sociology- 2017 Main Exam set-1",
+      "download":"assets/images/exam-12/sociology-12/sociology-2017-set-1.pdf",
+      "view":"assets/images/exam-12/sociology-12/sociology-2017-set-1.pdf",
+      "author":"Tushar",
+      "class":"class-12"
+    
+    }, {
+      "id":10,
+      "subject":"sociology",
+      "image":"sociology",
+      "description":"sociology- 2017 Outside Delhi  Exam set-1",
+      "download":"assets/images/exam-12/sociology-12/sociology-2017-outside-set-1.pdf",
+      "view":"assets/images/exam-12/sociology-12/sociology-2017-outside-set-1.pdf",
+      "author":"Tushar",
+      "class":"class-12"
+    
+    },
+    {
+      "id":11,
+      "subject":"sociology",
+      "image":"sociology",
+      "description":"sociology- 2018 Reconducted Exam set-1",
+      "download":"assets/images/exam-12/sociology-12/sociology-2018-reconducted.pdf",
+      "view":"assets/images/exam-12/sociology-12/sociology-2018-reconducted.pdf",
+      "author":"Tushar",
+      "class":"class-12"
+    
+    },
+    {
+      "id":12,
+      "subject":"sociology",
+      "image":"sociology",
+      "description":"sociology- 2019 Main Exam  set-1",
+      "download":"assets/images/exam-12/sociology-12/sociology-2019-set-4.pdf",
+      "view":"assets/images/exam-12/sociology-12/sociology-2019-set-4.pdf",
+      "author":"Tushar",
+      "class":"class-12"
+    
+    },
+    {
+      "id":13,
+      "subject":"sociology",
+      "image":"sociology",
+      "description":"sociology- 2022 Previous Year second Shift Paper set-4",
+      "download":"assets/images/exam-12/sociology-12/sociology-2022-set-4.pdf",
+      "view":"assets/images/exam-12/sociology-12/sociology-2022-set-4.pdf",
+      "author":"Tushar",
+      "class":"class-12"
+    
+    }
+  ]
+}
